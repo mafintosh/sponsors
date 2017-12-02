@@ -1,8 +1,8 @@
 # Sponsors
 
-List of all the great people / organisations help me fund my open source work.
+List of all the great people / organisations that help me fund my open source work.
 
-If you want to help support as well check out my Patreon at https://patreon.com/mafintosh
+If you want to help support check out my Patreon at https://patreon.com/mafintosh
 
 # Leaders
 
